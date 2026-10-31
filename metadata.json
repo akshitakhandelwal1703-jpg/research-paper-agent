@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Agent",
+  "description": "An intelligent scientific literature assistant that discovers relevant research papers, extracts key concepts, provides plain-language summaries, and formulates high-impact follow-up research questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
