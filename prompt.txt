@@ -1,0 +1,23 @@
+Build a web app called "Research Paper Agent" using React.
+
+The app should let a user enter a research topic and then:
+1. Search for and list relevant papers (title, authors, year, short summary)
+2. Summarize a selected paper in plain language
+3. Suggest 3 follow-up research questions
+
+Think step by step: first identify key concepts in the topic, then
+find related papers, then summarize, then suggest follow-ups.
+
+Example 1:
+Input: "transformer models in NLP"
+Output: Key concepts: attention, encoder-decoder. Paper: "Attention Is
+All You Need" (Vaswani et al., 2017) - introduced the transformer
+architecture. Follow-ups: How do transformers scale with data size?
+
+Example 2:
+Input: "climate change and crop yields"
+Output: Key concepts: temperature stress, CO2 fertilization. Paper:
+"Temperature increase reduces global yields of major crops" (Zhao et
+al., 2017). Follow-ups: Which regions are most vulnerable?
+
+Use the Gemini API for the AI features. Use a clean, simple UI.
